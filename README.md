@@ -5,9 +5,10 @@ This repository contains my LaTeX notes and reference materials used in my acade
 ## Structure
 
 Notes are organized by subject, with each folder containing:
-- A LaTeX source file (`.tex`)
 - A compiled PDF version (`.pdf`)
 - Supporting resources (books, other notes, etc.)
+
+> A LaTeX source files (`.tex`) are in the `/src`
 
 ## Requirements
 
