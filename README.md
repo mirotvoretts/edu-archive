@@ -6,9 +6,8 @@ This repository contains my LaTeX notes and reference materials used in my acade
 
 Notes are organized by subject, with each folder containing:
 - A compiled PDF version (`.pdf`)
+- A LaTeX source files (`.tex`)
 - Supporting resources (books, other notes, etc.)
-
-> A LaTeX source files (`.tex`) are in the `/src`
 
 ## Requirements
 
