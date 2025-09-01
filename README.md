@@ -1,6 +1,6 @@
 # Educational Archive
 
-This repository contains my LaTeX notes and reference materials used in my academic studies and self-education.
+This repository contains my LaTeX and Markdown notes and reference materials used in my academic studies and self-education.
 
 ## Structure
 
